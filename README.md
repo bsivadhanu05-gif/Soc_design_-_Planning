@@ -46,7 +46,7 @@ The "Placement" step followed by synthesis and floorplan
 
 <img width="1583" height="908" alt="Screenshot 2026-05-22 221209" src="https://github.com/user-attachments/assets/81bb4f9a-8f26-4421-95fd-ee4811c9f9d3" />
 
-The detailed values of the Design- picorv32a by verifying the config.tcl file using the command "less config.tcl"
+The detailed table view of the Design- picorv32a by taking a look onto the config.tcl file using the command "less config.tcl"
 
 <img width="1476" height="901" alt="Screenshot 2026-05-22 222412" src="https://github.com/user-attachments/assets/ec5b4d1b-a7d5-4875-98a5-461aa0e9ee3e" />
 
